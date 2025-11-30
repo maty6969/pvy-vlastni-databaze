@@ -4,7 +4,7 @@ Krátký popis: Tato databáze je navržena pro hotelový rezervační systém. 
 
 - **dbdiagram:** [https://dbdiagram.io/d/6916f7986735e11170cf60f5]
 
-![Obrázek schématu](vložit_odkaz_na_obrazek_sem)
+![Obrázek schématu](navrh-databaze.png)
 
 ---
 

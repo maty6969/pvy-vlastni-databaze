@@ -2,7 +2,8 @@
 
 Krátký popis: Tato databáze je navržena pro hotelový rezervační systém. Umožňuje uchovávat informace o zákaznících, pokojích, rezervacích, službách a platebních metodách. Cílem je mít přehledný model pro správu rezervací a doplňkových služeb v hotelu.
 
-- **dbdiagram:** [https://dbdiagram.io/d/6916f7986735e11170cf60f5]
+- **dbdiagram:** https://dbdiagram.io/d/6916f7986735e11170cf60f5
+- **Obrázek schématu:**
 
 ![Obrázek schématu](navrh-databaze.png)
 
